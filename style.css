@@ -2,3 +2,8 @@ iframe{
   width: 90% ; 
   height: 30px; ;
 }
+
+body{
+background:linear-gradient(rgb(0, 255, 0),rgb(121, 255, 121),rgb(194, 255, 194));
+min-height: 100vh;
+}
